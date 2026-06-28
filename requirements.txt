@@ -1,0 +1,4 @@
+# Python 3.12.3 required
+kurigram>=2.0.0
+selenium>=4.0.0
+PySocks>=1.7.1
